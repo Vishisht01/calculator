@@ -1,5 +1,5 @@
 .button-wrapper {
-    height: 4em;
+    height: 2.5em;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -8,4 +8,6 @@
     background-color: #5a5a5a;
     color: white;
     flex: 1;
+    border-radius: 2rem;
+    cursor: pointer;
 }
